@@ -1,10 +1,6 @@
 <h2 style="text-align: center">Github: </h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{heli101217}/count.svg" alt="kfox-debug :: Visitor's Count" /></p>
-
-<p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=heli101217&data=followers,repositories,stars,commits' />
-</p>
  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heli101217&langs_count=10&theme=merko&layout=compact" width="100%" height="216px" alt="heli101217 :: Top Langs" />
